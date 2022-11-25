@@ -3,14 +3,19 @@
 
 O texto retrata algumas diferenças entre um engenheiro de software e um programador. Onde ao se tratar de engenharia de software o profissional tem uma gama de preocupações maiores do que somente elaborar e corrigir o código de um software, ele também deve estar preocupado com sua aplicação e organização controlando toda sua estruturação, além de como um software em específico se apresentará para o mercado e também se integrará ao mesmo, com claros objetivos, pontos fortes e fracos bem definidos. 
 
+##
 
 O que é um trade off do API do segundo semestre?
 O sacrifício da possibilidade de trabalhar com uma aplicação web direto no navegador, sendo implementado diretamente no site da empresa o que poderia facilitar a aplicação cotidiana do cliente na utilização do produto através de diferentes meios. Assim, buscando adquirir versatilidade na integração do software com a aplicação do cliente, podendo abrir varias possibilidades para seu uso.
 
+##
+
 ### CASO DE USO
 
-![Caso de uso](/home/myuser/Programacao/Bertoti/EngSoftware1/imagens/casodeuso.jpeg)
+![Caso de uso](https://github.com/YagoPSilva/Bertoti/blob/main/EngSoftware1/imagens/casodeuso.jpeg?raw=true)
+
+##
 
 ### DIAGRAMA DE CLASSE
 
-![Diagrama de classe](/home/myuser/Programacao/Bertoti/EngSoftware1/imagens/diagramadeclasse.jpeg)
+![Caso de uso](https://github.com/YagoPSilva/Bertoti/blob/main/EngSoftware1/imagens/diagramadeclasse.jpeg?raw=true)
