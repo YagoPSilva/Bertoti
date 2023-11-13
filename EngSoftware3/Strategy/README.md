@@ -1,1 +1,1 @@
-(../img/strategy.drawio.png)
+![UML](../img/strategy.drawio.png)
