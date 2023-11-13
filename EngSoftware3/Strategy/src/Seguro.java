@@ -1,0 +1,3 @@
+interface Seguro {
+    void assegurar();
+}

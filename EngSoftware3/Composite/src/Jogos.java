@@ -1,0 +1,3 @@
+interface Jogos {
+    void mostrarDetalhes();
+}

@@ -1,0 +1,1 @@
+(../img/strategy.drawio.png)

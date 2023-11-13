@@ -1,0 +1,1 @@
+(../img/observer.drawio.png)
