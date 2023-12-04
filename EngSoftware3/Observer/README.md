@@ -1,1 +1,1 @@
-(../img/observer.drawio.png)
+(../img/observer.png)

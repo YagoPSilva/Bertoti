@@ -1,1 +1,1 @@
-(../img/strategy.drawio.png)
+(../img/strategy.png)

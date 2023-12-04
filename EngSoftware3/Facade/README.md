@@ -1,1 +1,1 @@
-(../img/facade.drawio.png)
+(../img/facade.png)
